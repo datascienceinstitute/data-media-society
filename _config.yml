@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data, Media &amp; Society
-email: ""
+title: Data, Media & Society
+email: "dsi-datamediasociety@columbia.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Part of Columbia University's Data Science Institute
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,10 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+about.md
+projects.md
+events.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
