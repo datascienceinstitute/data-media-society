@@ -9,7 +9,7 @@ Each term, the Center for Data, Media and Society helps support interdisciplinar
 
 #### Just-in-time Mobile App for Adolescent Mental Health
 
-This project is connected to a study at the Columbia University School of Social Work exaiming associations between adolescent mental health and physiological data, sociability metrics and self-reported daily stressors. The goal of this work is to use this data to inform the development of a just-in-time adaptive intervention (delivered by smart phone) to reduce mental health problems among adolescents. This project is seeking a student to develop a mobile app that can deliver these just-in-time interventions. Read more >>
+This project is connected to a study at the Columbia University School of Social Work exaiming associations between adolescent mental health and physiological data, sociability metrics and self-reported daily stressors. The goal of this work is to use this data to inform the development of a just-in-time adaptive intervention (delivered by smart phone) to reduce mental health problems among adolescents. This project is seeking a student to develop a mobile app that can deliver these just-in-time interventions. (research/jit-mental-health.md)[Read more >>]
 
 
 ### Recent Projects
