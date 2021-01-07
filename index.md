@@ -5,14 +5,11 @@ title: Data, Media & Society
 
 ## Spring 2021
 
+The Center for Data, Media and Society is interested in the human in data. It is comprised of students and faculty who are engaged in both creative as well as research practices grounded in data. We study the ways in which we can use data to understand human behavior, and we address questions about how data and data processing are shaping how we work, how we live, and what it means to be a person in a networked, digitized world.
+
+Each term, the DSI Center for Data, Media and Society supports original, interdisciplinary work at the intersection of data science and the humanities (broadly defined). By offering funding for promising undergraduate, masters, or graduate students research assistants, our aim is to accelerate collaborative, high-impact research projects whose goals and approaches may not fit within traditional departmental boundaries.
+
 ### Call for Research Proposals
-
-#### Overview
-
-The DSI Center for Data, Media and Society is pleased to announce our call for spring project proposals.  The purpose of the program is to identify promising undergraduate, masters, or graduate students to accelerate collaborative, high-impact research projects in the humanities (broadly defined).  
-
-
-#### Project requirements
 
 We encourage both faculty and students to submit project proposals. The primary requirement is that a project must ensure that there are at least **2 research mentors** - one in humanities and one in DSI/CS - that can meet weekly with the funded students. Thus, students may submit a proposal if they have identified research mentors for the project. 
 
@@ -49,4 +46,25 @@ Project proposals should be a maximum of 1 page, and include the following infor
 **Submission link (Dropbox):  https://www.dropbox.com/request/v07R3cv1wd8FMpz1uGEG**
 
 
-### Call for Research Assistants
+### Call for Student Research Assistants
+
+The DSI Center for Data, Media and Society is often tasked with identifying promising undergraduate, masters, or graduate students who can accelerate collaborative, high-impact research projects at the intersection of data science and the humanities (broadly defined). Students interested in gaining research experience while working across traditional disciplinary boundaries are encouraged to apply. 
+
+#### Application Process
+
+Interested students should submit the following materials:
+
+1. A current resume/CV
+2. A brief statement of interest (no more than 250 words)
+
+All we ask for is a copy of the student’s up-to-date resume/CV and a brief statement of interest, no more than 250 words. 
+
+#### Key dates
+
+**Monday, January 18, 2021 11:59PM EST**: Applications due.
+
+*Selected applicants will be contacted for an interview directly by specific project leaders the following week*
+
+**Please submit your application to https://forms.gle/z8S6L8fpN2N51TLX8**
+
+**Note:** If you are a student with a project idea,you may submit a project proposal for funding directly; see the call for project proposals above for details on how to apply. Any awarded funds will need to be administered by one of the mentoring faculty's departments.
