@@ -38,10 +38,10 @@ Project proposals should be a maximum of 1 page, and include the following infor
 
 #### Key dates
 
-**Monday, January 18, 2021 11:59PM EST**:  Proposals due
-**Friday, January, 22, 2021**: Selected proposals notified
-**Monday, February 1, 2021**:Notify center chairs about student researchers selected for project. 
-**Monday, May 3rd 2021**:4-page progress report for supported projects due
+* **Monday, January 18, 2021 11:59PM EST**:  Proposals due
+* **Friday, January, 22, 2021**: Selected proposals notified
+* **Monday, February 1, 2021**:Notify center chairs about student researchers selected for project. 
+* **Monday, May 3rd 2021**:4-page progress report for supported projects due
 
 
 **Submission link (Dropbox):  [https://www.dropbox.com/request/7n4Juai51CdnVsWhCUS2](https://www.dropbox.com/request/7n4Juai51CdnVsWhCUS2)**
