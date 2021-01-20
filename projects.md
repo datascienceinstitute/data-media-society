@@ -15,7 +15,7 @@ The News Authentication Research Group (NewsAuth) is now accepting applications 
 
 **Applicants must be active full-time students at a U.S. college and must be U.S. citizens or U.S. permanent residents.** This research appointment is a part-time and remote work opportunity, and covers between 10-20 hours per week. To apply, please **submit your 1-page resume to The NewsAuth Group at reu.newsauth@columbia.edu. Preference will be given to students who submit their resume by February 1, 2021.**
 
-For more information about this project, please visit:[research/newsauth.md](Read more >>)
+For more information about this project, please visit our [research/newsauth.html](project page.)
 
 
 ### Recent Projects
