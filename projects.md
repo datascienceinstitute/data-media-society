@@ -7,9 +7,15 @@ Each term, the Center for Data, Media and Society helps support interdisciplinar
 
 ### Upcoming Projects
 
-#### Just-in-time Mobile App for Adolescent Mental Health
+#### Research Experience for Undergraduates (REU), Spring 2021 - The NewsAuth Project
 
-This project is connected to a study at the Columbia University School of Social Work exaiming associations between adolescent mental health and physiological data, sociability metrics and self-reported daily stressors. The goal of this work is to use this data to inform the development of a just-in-time adaptive intervention (delivered by smart phone) to reduce mental health problems among adolescents. This project is seeking a student to develop a mobile app that can deliver these just-in-time interventions. (research/jit-mental-health.md)[Read more >>]
+The News Authentication Research Group (NewsAuth) is now accepting applications for a paid remote Research Experience for Undergraduates (REU) with researchers at Columbia DSI and the Columbia Journalism School, including a wider collaboration opportunity with researchers from Clemson University and New York University. We are seeking applicants who are interested in learning about research in digital news and media trust, privacy and security in organizational settings, and human-centered computing. 
+
+*Application process*
+
+**Applicants must be active full-time students at a U.S. college and must be U.S. citizens or U.S. permanent residents.** This research appointment is a part-time and remote work opportunity, and covers between 10-20 hours per week. To apply, please **submit your 1-page resume to The NewsAuth Group at reu.newsauth@columbia.edu. Preference will be given to students who submit their resume by February 1, 2021.**
+
+For more information about this project, please visit:(research/newsauth.md)[Read more >>]
 
 
 ### Recent Projects
